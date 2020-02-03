@@ -1,0 +1,28 @@
+{
+  "name": "social_profilepropertiesconsuminglib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for consuming social user profile properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/social-libs/profilepropertiesconsuming.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "social",
+    "user",
+    "profile",
+    "properties",
+    "consuming",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/social-libs/profilepropertiesconsuming/issues"
+  },
+  "homepage": "https://github.com/social-libs/profilepropertiesconsuming#readme"
+}
